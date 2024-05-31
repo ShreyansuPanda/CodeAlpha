@@ -1,5 +1,4 @@
 #CodeAlpha Task 2: Stock Portfolio Tracker
-"""This is """
 
 
 from  flask import request,render_template, jsonify,Flask
