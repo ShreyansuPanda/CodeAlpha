@@ -1,6 +1,6 @@
-# Stock Portfolio Tracker
+# Code Alpha Task 2: Expense Tracker
 
-A stock portfolio tracking application built with Flask for the backend, JavaScript for the frontend, and SQLite3 for the database. This application allows users to track stock prices, monitor changes in real-time, and view the total portfolio value.
+A stock portfolio tracking application built with Flask for the backend, JavaScript for the front end, and SQLite3 for the database. This application allows users to track stock prices, monitor real-time changes, and view the total portfolio value.
 
 ##Video Guide for this project: https://www.linkedin.com/posts/shreyansu-panda-5a9854276_stockportfoliotracker-codealphainternship-activity-7161969750602973184-yFyY?utm_source=share&utm_medium=member_desktop
 
